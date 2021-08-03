@@ -1,0 +1,16 @@
+﻿מדוע כדאי להשתמש ב properties?
+חסכון בקוד
+
+באיזה מצבים Property מייצר backing field?
+כאשר אני משתמש ב-prop
+ללא שינויים ובלי להגדיר משתנה משלי שה-prop
+יעבוד עליו
+
+האם ניתן לייצר property עם Getter ללא Setter?
+אכן
+
+האם אפשר באותו property לייצר רמת נגישות שונה בין ה Getter ל- Setter?
+כן
+
+האם property יכול להיות Static?
+כן
